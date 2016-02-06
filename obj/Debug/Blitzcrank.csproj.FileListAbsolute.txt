@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Debug\Blitzcrank.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Debug\Blitzcrank.exe
+c:\users\dell\documents\visual studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Debug\Blitzcrank.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Debug\EloBuddy.dll
+c:\users\dell\documents\visual studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Debug\EloBuddy.SDK.dll
+c:\users\dell\documents\visual studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\dell\documents\visual studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Debug\SharpDX.dll
+c:\users\dell\documents\visual studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Debug\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2015\Projects\Blitzcrank\Blitzcrank\obj\Debug\Blitzcrank.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Blitzcrank\Blitzcrank\obj\Debug\Blitzcrank.exe
+c:\users\dell\documents\visual studio 2015\Projects\Blitzcrank\Blitzcrank\obj\Debug\Blitzcrank.pdb

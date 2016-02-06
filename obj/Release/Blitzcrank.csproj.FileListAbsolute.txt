@@ -1,0 +1,20 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Release\Blitzcrank.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Release\Blitzcrank.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Release\Blitzcrank.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Release\EloBuddy.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Release\EloBuddy.SDK.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Release\SharpDX.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Blitzcrank\Blitzcrank\bin\Release\Newtonsoft.Json.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Blitzcrank\Blitzcrank\obj\Release\Blitzcrank.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Blitzcrank\Blitzcrank\obj\Release\Blitzcrank.pdb
+C:\Users\DELL\Desktop\Blitzcrank\bin\Release\Blitzcrank.exe.config
+C:\Users\DELL\Desktop\Blitzcrank\bin\Release\Blitzcrank.exe
+C:\Users\DELL\Desktop\Blitzcrank\bin\Release\Blitzcrank.pdb
+C:\Users\DELL\Desktop\Blitzcrank\bin\Release\EloBuddy.dll
+C:\Users\DELL\Desktop\Blitzcrank\bin\Release\EloBuddy.SDK.dll
+C:\Users\DELL\Desktop\Blitzcrank\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\DELL\Desktop\Blitzcrank\bin\Release\SharpDX.dll
+C:\Users\DELL\Desktop\Blitzcrank\bin\Release\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Blitzcrank\obj\Release\Blitzcrank.exe
+C:\Users\DELL\Desktop\Blitzcrank\obj\Release\Blitzcrank.pdb
